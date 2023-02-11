@@ -6,7 +6,7 @@
 <!-- hồ sơ -->
 ![Liesy GitHub stats](https://github-readme-stats.vercel.app/api?username=liesyx&theme=radical&show_icons=true)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liesyx&repo=Numerade-Dowloader&theme=radical)](https://github.com/liesyx/Numerade-Dowloader)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liesyx&repo=Numerade-Dowloader&theme=radical)](https://github.com/liesyx/Numerade-Dowloader) -->
 
 <!-- Hồ sơ -->
 <h3 align="left">Languages and Tools:</h3>
