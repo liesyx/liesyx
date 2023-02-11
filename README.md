@@ -6,7 +6,7 @@
 <!-- hồ sơ -->
 ![Liesy GitHub stats](https://github-readme-stats.vercel.app/api?username=liesx&theme=radical&show_icons=true)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liesx&repo=Numerade-Dowloader&theme=radical)](https://github.com/Liesx/Numerade-Dowloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liesx&repo=Numerade-Dowloader&theme=radical)](https://github.com/liesyx/Numerade-Dowloader)
 
 ![snake gif](https://github.com/mishmanners/mishmanners/blob/output/github-contribution-grid-snake.gif)
 <!-- Hồ sơ -->
