@@ -1,27 +1,12 @@
-### Hi there 👋
 
-<!--
-**Lies1234/Lies1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- readme -->
 <h1 align="center">Hi 👋, I'm Liesy</h1>
 <h3 align="center">Ơ kìa hà nội mới đổi chỗ</h3>
 
 <!-- hồ sơ -->
-![Liesy GitHub stats](https://github-readme-stats.vercel.app/api?username=lies1234&theme=radical&show_icons=true)
+![Liesy GitHub stats](https://github-readme-stats.vercel.app/api?username=liesx&theme=radical&show_icons=true)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lies1234&repo=Numerade-Dowloader&theme=radical)](https://github.com/Lies1234/Numerade-Dowloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liesx&repo=Numerade-Dowloader&theme=radical)](https://github.com/Lies1234/Numerade-Dowloader)
 
 ![snake gif](https://github.com/mishmanners/mishmanners/blob/output/github-contribution-grid-snake.gif)
 <!-- Hồ sơ -->
