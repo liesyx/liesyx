@@ -7,7 +7,9 @@
  ![Liesy GitHub stats](https://github-readme-stats.vercel.app/api?username=liesyx&theme=radical&show_icons=true) 
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liesyx&repo=Numerade-Dowloader&theme=radical)](https://github.com/liesyx/Numerade-Dowloader)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liesyx&repo=Gene-Panel&theme=radical)](https://github.com/liesyx/Gene-Panel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liesyx&repo=Quizlet-get-answer&theme=radical)](https://github.com/liesyx/Quizlet-get-answer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liesyx&repo=Scribd-Dowloader&theme=radical)](https://github.com/liesyx/Scribd-Dowloader)
 <!-- Hồ sơ -->
 
 <h3 align="left">Connect with me:</h3>
